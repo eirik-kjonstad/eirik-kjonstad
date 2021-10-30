@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🔭 I'm a maintainer of the quantum chemistry program [eT](https://gitlab.com/eT-program/eT) (2016-)
+- 🌱 I'm currently learning how to best apply object-oriented design patterns in my coding work
 
 <!--
 **eirik-kjonstad/eirik-kjonstad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
